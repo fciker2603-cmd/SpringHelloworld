@@ -1,4 +1,4 @@
-package aspirest;
+package com.example.aspirest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
